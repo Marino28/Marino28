@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marino28
-- 👀 I’m interested in Machine Learning and Data Analysis 
-- 🌱 I’m currently learning R language
+- 👀 I’m interested in Machine Learning and Data Engineering
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Analysis and open source codes
 - 📫 marinodelcarpio@gmail.com
 
