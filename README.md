@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Marino28
 - 👀 I’m interested in Machine Learning and Data Engineering
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Analysis and open source codes
+- 💞️ I’m looking to collaborate on ETL processes and open source codes to improve data governance and general data structure
 - 📫 marinodelcarpio@gmail.com
 
 <!---
